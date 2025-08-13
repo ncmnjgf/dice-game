@@ -8,7 +8,7 @@ function App() {
   // useing use state for hiding and show next screen 
   // it will hide the component of <start/> and replace it to other
 
-  const [isgame,setgame] = useState(true);
+  const [isgame,setgame] = useState(false);
 
   const togglegame = () =>{
     setgame(prev => !prev);
