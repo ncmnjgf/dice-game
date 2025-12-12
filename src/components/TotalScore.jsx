@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import GamePlay from "./gameplay";
+import GamePlay from "./GamePlay";
 
 const TotalScore = ({score}) => {
     return (
