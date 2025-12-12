@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import GamePlay from './components/gameplay'
+import GamePlay from './components/GamePlay.jsx'
 import StartGame from './components/startgame'
 import NumberSelector from './components/NumberSelector'
 import './App.css'
