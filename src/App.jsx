@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import GamePlay from './components/GamePlay.jsx'
-import StartGame from './components/startgame'
+import StartGame from './components/StartGame.jsxtartgame'
 import NumberSelector from './components/NumberSelector'
 import './App.css'
 
